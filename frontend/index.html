@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Music Album Crowdfunding</title>
+  <script src="https://cdn.jsdelivr.net/npm/ethers@6.10.0/dist/ethers.umd.min.js"></script>
+</head>
+<body>
+
+<h2>Music Album Crowdfunding</h2>
+
+<button onclick="connect()">Connect MetaMask</button>
+<p><b>Address:</b> <span id="address"></span></p>
+<p><b>ETH Balance:</b> <span id="eth"></span></p>
+<p><b>FAN Balance:</b> <span id="fan"></span></p>
+
+<hr>
+
+<h3>Create Campaign</h3>
+<input id="title" placeholder="Album title"><br>
+<input id="goal" placeholder="Goal (ETH)"><br>
+<input id="duration" placeholder="Duration (seconds)"><br>
+<button onclick="createCampaign()">Create</button>
+
+<hr>
+
+<h3>Contribute</h3>
+<input id="cid" placeholder="Campaign ID"><br>
+<input id="amount" placeholder="ETH amount"><br>
+<button onclick="contribute()">Contribute</button>
+
+<hr>
+
+<h3>Finalize</h3>
+<input id="fid" placeholder="Campaign ID"><br>
+<button onclick="finalize()">Finalize</button>
+
+<hr>
+
+<h3>Withdraw / Refund</h3>
+<input id="rid" placeholder="Campaign ID"><br>
+<button onclick="withdraw()">Withdraw</button>
+<button onclick="refund()">Refund</button>
+
+<script src="index.js"></script>
+
+</body>
+</html>
