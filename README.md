@@ -418,5 +418,7 @@ The mint function allows the owner (typically the crowdfunding contract) to crea
 - **Purpose**
 
 FanToken acts as a non-financial reward token, representing engagement and support rather than ownership or profit rights.
+
+
 Diagramma
 ![kk](https://github.com/user-attachments/assets/79d63841-2138-4c56-be2a-4907e4c4a010)
