@@ -158,4 +158,5 @@ This project demonstrates a complete decentralized crowdfunding workflow. It sho
 Our diagramm
 
   ![kk](https://github.com/user-attachments/assets/1d30fbec-1493-4e4d-9563-beaffefd1324)
+  https://www.canva.com/design/DAG0ADRGhfE/uSuVr3T6d3FMM8yi1-cfhg/view?utm_content=DAG0ADRGhfE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hac630149e8
 
