@@ -155,5 +155,7 @@ Conclusion
 
 This project demonstrates a complete decentralized crowdfunding workflow. It shows how smart contracts, ERC-20 tokens, MetaMask, and frontend logic work together in a real blockchain-based application.
 
+Our diagramm
+
   ![kk](https://github.com/user-attachments/assets/1d30fbec-1493-4e4d-9563-beaffefd1324)
 
