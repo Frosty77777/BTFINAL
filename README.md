@@ -105,9 +105,9 @@ Ethereum mainnet is not used.
 How to run the project
 
 Install dependencies
-
+'''
 npm install
-
+'''
 
 Start local blockchain
 
